@@ -1,0 +1,27 @@
+{
+    "attributes": [
+        {
+            "trait_type": "AssetType",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "GameVersion",
+            "value": "1.0.0"
+        },
+        {
+            "trait_type": "Shape",
+            "value": "Stickman"
+        }
+    ],
+    "secret_key":  {
+        "key": "19236e80c2444cf5b82af93f6b5f23a2894d8c401bb8d33ec58bf42c6bc475d8",
+        "description": "we may want to expose why we add this or not, it can be a great think. If we want to expose, then this key only effect the owners of this NFT."
+    },
+    "description": "pkbo",
+    "image": "",
+    "name": "Bad Ass."
+}

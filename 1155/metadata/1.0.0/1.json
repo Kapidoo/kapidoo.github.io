@@ -1,0 +1,27 @@
+{
+    "attributes": [
+        {
+            "trait_type": "AssetType",
+            "value": "Player"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": "GameVersion",
+            "value": "1.0.0"
+        },
+        {
+            "trait_type": "Shape",
+            "value": "Stickman"
+        }
+    ],
+    "secret_key":  {
+        "key": "488e0f4809b1ff40802af891e22468e7b4607764142b4f5bacb8a89274f281a4",
+        "description": "we may want to expose why we add this or not, it can be a great think. If we want to expose, then this key only effect the owners of this NFT."
+    },
+    "description": "Give me a scotch. I’m starving.",
+    "image": "",
+    "name": "I'm brown"
+}
