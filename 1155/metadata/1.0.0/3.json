@@ -1,27 +1,28 @@
 {
-    "attributes": [
-        {
-            "trait_type": "AssetType",
-            "value": "Player"
-        },
-        {
-            "trait_type": "Color",
-            "value": "Blue"
-        },
-        {
-            "trait_type": "GameVersion",
-            "value": "1.0.0"
-        },
-        {
-            "trait_type": "Shape",
-            "value": "Stickman"
-        }
-    ],
-    "secret_key":  {
-        "key": "daee1ce12464e69c34b3c9e96e954d57fe49c1b57aabb63b9542059061114bfe",
-        "description": "we may want to expose why we add this or not, it can be a great think. If we want to expose, then this key only effect the owners of this NFT."
+  "attributes": [
+    {
+      "trait_type": "AssetType",
+      "value": "Player"
     },
-    "description": "...genius billionaire playboy philanthropist",
-    "image": "",
-    "name": "The killer"
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "GameVersion",
+      "value": "1.0.0"
+    },
+    {
+      "trait_type": "Shape",
+      "value": "Stickman"
+    }
+  ],
+  "secret_key": {
+    "key": "daee1ce12464e69c34b3c9e96e954d57fe49c1b57aabb63b9542059061114bfe",
+    "description": "we may want to expose why we add this or not, it can be a great think. If we want to expose, then this key only effect the owners of this NFT."
+  },
+  "description": "...genius billionaire playboy philanthropist",
+  "image": "https://gateway.pinata.cloud/ipfs/QmU12h6b2aHF2vwTe7ScTxKpyNcLvEFY1ZhVGo6xtTDP7s",
+  "name": "The killer"
 }
+

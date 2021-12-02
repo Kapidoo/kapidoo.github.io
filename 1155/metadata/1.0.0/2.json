@@ -1,27 +1,28 @@
 {
-    "attributes": [
-        {
-            "trait_type": "AssetType",
-            "value": "Player"
-        },
-        {
-            "trait_type": "Color",
-            "value": "Red"
-        },
-        {
-            "trait_type": "GameVersion",
-            "value": "1.0.0"
-        },
-        {
-            "trait_type": "Shape",
-            "value": "Stickman"
-        }
-    ],
-    "secret_key":  {
-        "key": "74e55a9142160d335b650b62cbb2642ab4e9fb1254bfdfbd7bad2dcb57e8e03d",
-        "description": "we may want to expose why we add this or not, it can be a great think. If we want to expose, then this key only effect the owners of this NFT."
+  "attributes": [
+    {
+      "trait_type": "AssetType",
+      "value": "Player"
     },
-    "description": "I want to die a natural death at the age of 102 - like the city of Detroit.",
-    "image": "",
-    "name": "Flashy"
+    {
+      "trait_type": "Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "GameVersion",
+      "value": "1.0.0"
+    },
+    {
+      "trait_type": "Shape",
+      "value": "Stickman"
+    }
+  ],
+  "secret_key": {
+    "key": "74e55a9142160d335b650b62cbb2642ab4e9fb1254bfdfbd7bad2dcb57e8e03d",
+    "description": "we may want to expose why we add this or not, it can be a great think. If we want to expose, then this key only effect the owners of this NFT."
+  },
+  "description": "I want to die a natural death at the age of 102 - like the city of Detroit.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmWp8bN2iwiGvphfa8tKN3Fk6zv2KHYd4QC8WnFvWimCXJ",
+  "name": "Flashy"
 }
+
